@@ -127,5 +127,12 @@ print(type(g))
 ## Output:
 
 <pre>
-
+Integer tpye
+class 'int'
+Float tpye
+class 'float'
+Complex tpye
+class 'complex'
+Boolean tpye
+class 'bool'
 </pre>
