@@ -184,3 +184,16 @@ print(a)
 print(id(a))
 
 </pre>
+
+
+## Output:
+
+<pre>
+1601557971944
+Rahul
+5
+1601557972000
+Singh
+RahulSingh
+1601557722928
+</pre>
