@@ -100,3 +100,32 @@ Enter boolean Value:True
 <class 'str'>
 <class 'bool'>
 </pre>
+
+
+## Example-5:
+
+<pre>
+print('Integer tpye')
+a=123
+print(type(a))
+
+print('Float tpye')
+c=123.3
+print(type(c))
+
+print('Complex tpye')
+e=6+4j
+print(type(e))
+
+print('Boolean tpye')
+g=True
+print(type(g))
+
+
+</pre>
+
+## Output:
+
+<pre>
+
+</pre>
