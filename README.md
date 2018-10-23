@@ -40,7 +40,7 @@ Enter Second no.:5
 4 5
 </pre>
 
-## Example-:
+## Example-3:
 <pre>
 a=input('Enter First Name:')
 b=input('Enter Last Name:')
@@ -59,4 +59,44 @@ RahulSingh
 Rahul Singh
 class 'str'
 10
+</pre>
+
+## Example-4:
+<pre>
+a=input('Enter int Value:')
+print(type(a))
+b=int(a)
+print(type(b))
+
+c=input('Enter float Value:')
+print(type(c))
+d=float(c)
+print(type(d))
+
+e=input('Enter complex Value:')
+print(type(e))
+f=complex(e)
+print(type(f))
+
+g=input('Enter boolean Value:')
+print(type(g))
+h=bool(g)
+print(type(h))
+
+</pre>
+
+## Output:
+<pre>
+Enter int Value:10
+<class 'str'>
+<class 'int'>
+Enter float Value:123.12
+<class 'str'>
+<class 'float'>
+Enter complex Value:12+j
+<class 'str'>
+<class 'complex'>
+Enter boolean Value:True
+<class 'str'>
+<class 'bool'>
 </pre>
