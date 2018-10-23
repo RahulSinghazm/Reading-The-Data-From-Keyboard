@@ -154,3 +154,14 @@ print(c+int(e))
 print(str(c)+e)
 
 </pre>
+
+## Output:
+
+<pre>
+RahulSingh
+3000
+Rahul1234
+Rahul1000
+2234
+10001234
+</pre>
