@@ -136,3 +136,21 @@ class 'complex'
 Boolean tpye
 class 'bool'
 </pre>
+
+
+## Example-6:
+
+<pre>
+a='Rahul'
+b='Singh'
+c=1000
+d=2000
+e='1234'
+print(a+b)
+print(c+d)
+print(a+e)
+print(a+str(c))
+print(c+int(e))
+print(str(c)+e)
+
+</pre>
