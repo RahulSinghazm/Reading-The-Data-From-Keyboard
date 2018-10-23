@@ -165,3 +165,22 @@ Rahul1000
 2234
 10001234
 </pre>
+
+
+## Example-7:
+
+<pre>
+a='Rahul'
+print(id(a))
+print(a)
+print(len(a))
+
+#a[2]='p'
+b='Singh'
+print(id(b))
+print(b)
+a=a+b
+print(a)
+print(id(a))
+
+</pre>
