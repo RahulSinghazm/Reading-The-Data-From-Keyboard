@@ -19,7 +19,7 @@ Enter First Name:Rahul
 Enter Last Name:Singh
 RahulSingh
 Rahul Singh
-</>
+</pre>
 
 ## Example-2:
 <pre>
@@ -38,4 +38,25 @@ Enter First no.:4
 Enter Second no.:5
 9
 4 5
+</pre>
+
+## Example-:
+<pre>
+a=input('Enter First Name:')
+b=input('Enter Last Name:')
+print(a+b)
+print(a,b)
+print(type(a))
+print(len(a+b))
+
+</pre>
+
+## Output:
+<pre>
+Enter First Name:Rahul
+Enter Last Name:Singh
+RahulSingh
+Rahul Singh
+<class 'str'>
+10
 </pre>
