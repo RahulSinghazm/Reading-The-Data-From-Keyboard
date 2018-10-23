@@ -57,6 +57,6 @@ Enter First Name:Rahul
 Enter Last Name:Singh
 RahulSingh
 Rahul Singh
-<pre><class 'str'></pre>
+class 'str'
 10
 </pre>
